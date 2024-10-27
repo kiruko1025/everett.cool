@@ -5,6 +5,7 @@ subtitle: ""
 date: 2024-10-26
 author: "Everett"
 header-style: text
+mathjax: true
 tags: 
     - fun
 ---
@@ -90,6 +91,3 @@ Every minute feels like a year
 Ok I realized this is getting more and more sad as I go on to think about anything 
 
 Now I dumped some of this feelings through words and I will go back to pretending I am fine
-$$
-    x=
-$$
