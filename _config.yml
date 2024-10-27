@@ -1,11 +1,11 @@
 # Site settings
-title: "🌸🐳 \  HynDuf \  👋"
-SEOTitle: HynDuf Blog
+title: "Everett"
+SEOTitle: Everett Blog
 header-img: img/hollow-knight.png
-email: hynduf@gmail.com
-description: "May it get me? 🌸"
-keyword: "hynduf, @hynduf, HynDuf's Blog, CP, Arch Linux, Obsidian"
-url: "https://hynduf.github.io" # your host, for absolute URL
+email: everettmay1025@gmail.com
+description: "🌸"
+keyword: ""
+url: "everett.cool" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: hynduf
-twitter_username: HynDuf
-facebook_username: HynDuf
-linkedin_username: hynduf
+github_username: EverettMay
+twitter_username: Kiruko1025
+facebook_username: 
+linkedin_username: 
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -56,23 +56,12 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-# disqus_username: hynduf
 
-# Netease settings
-netease_comment: false
 
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
-
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "how far down the <br/> rabbit holes 🐇, <br/> would it take me? 🤔"
+sidebar-about-description: "hi"
 sidebar-avatar: https://github.com/hynduf.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -89,5 +78,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Trí Phan", href: "https://triphan2k3.github.io/" },
+    { title: "no friends"},
   ]
