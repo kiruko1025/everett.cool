@@ -61,7 +61,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "I don't think anyone will ever read this. So, whatever."
+sidebar-about-description: "This is personal blog of Everett."
 sidebar-avatar: https://raw.githubusercontent.com/EverettMay/EverettMay/refs/heads/main/IMG_3302.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -73,10 +73,5 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
-
-# Friends
-friends:
-  [
-    { title: "no friends"},
-  ]
+page-mathjax: true
+mathjax: true
