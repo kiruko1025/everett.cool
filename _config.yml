@@ -3,7 +3,7 @@ title: "Everett"
 SEOTitle: Everett Blog
 header-img: img/hollow-knight.png
 email: everettmay1025@gmail.com
-description: "🌸"
+description: ""
 keyword: ""
 url: "everett.cool" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: true
-github_username: EverettMay
-twitter_username: Kiruko1025
+github_username: kiruko1025
+twitter_username:
 facebook_username: 
 linkedin_username: 
 
